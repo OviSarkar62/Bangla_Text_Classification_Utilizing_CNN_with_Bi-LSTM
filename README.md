@@ -43,3 +43,12 @@ This project is presented a binary classification of sentiment on a dataset that
   <br>
     <em>Fig: Model Architecture</em>
 </p>
+
+### Results
+
+- **Training & Validation Accuracy**
+<p align="center">
+  <img alt="img-name" src="Images/Train and Test Accuracy.png" width="600">
+  <br>
+    <em>Fig: Train and Test Accuracy</em>
+</p>
