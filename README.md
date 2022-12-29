@@ -37,3 +37,9 @@ This project is presented a binary classification of sentiment on a dataset that
 - Padded the sequences.
 
 ### Architecture
+
+<p align="center">
+  <img alt="img-name" src="Images/Model Architecture.png" width="600">
+  <br>
+    <em>Fig: Model Architecture</em>
+</p>
