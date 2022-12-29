@@ -54,7 +54,7 @@ This project is presented a binary classification of sentiment on a dataset that
 
 - **Train & Test Accuracy**
 <p align="center">
-  <img alt="img-name" src="Images/Train and Test Accuracy.png" width="600">
+  <img alt="img-name" src="Images/Train and Test Accuracy.png" width="500">
   <br>
     <em>Fig: Train and Test Accuracy</em>
 </p>
