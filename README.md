@@ -69,3 +69,8 @@ This project is presented a binary classification of sentiment on a dataset that
 ### Conclusion
 
 This project is focused on a particular deep neural network model for the effective implementation of Bangla language sentiment. All Bangla sentences in this model have been classified into two categories from the dataset. Additionally, the accuracy of the model is much more than other models. 
+
+---
+### Author's Info
+- **LinkedIn: [ovisarkar1610052](https://www.linkedin.com/in/ovisarkar1610052/)**
+- **ResearchGate: [Ovi Sarkar](https://www.researchgate.net/profile/Ovi-Sarkar)**
