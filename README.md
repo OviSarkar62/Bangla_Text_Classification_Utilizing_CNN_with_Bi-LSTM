@@ -4,16 +4,22 @@ This project is presented a binary classification of sentiment on a dataset that
 
 ## Table of Contents
 
-(1) **Importing Libraries**
+(1) **Libraries**
 
 (2) **Dataset**
 
 (3) **Preprocessing**
 
-(3) **Proposed Architecture**
-
-(4) **Tech/Stacks**
+(4) **Architecture**
 
 (5) **Result** 
 
 (6) **Conclusion**
+
+### Libraries
+
+- [x] **Keras**
+
+- [x] **TensorFlow**
+
+- [x] **Scikit-Learn**
