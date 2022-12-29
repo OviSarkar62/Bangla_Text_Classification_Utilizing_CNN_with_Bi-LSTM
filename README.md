@@ -36,6 +36,12 @@ This project is presented a binary classification of sentiment on a dataset that
 - Done tokenization so that it can be later used to generate Embeddings.
 - Padded the sequences.
 
+<p align="center">
+  <img alt="img-name" src="Images/Tokenization and Padding.png" width="600">
+  <br>
+    <em>Fig: Tokenization and Padding</em>
+</p>
+
 ### Architecture
 
 <p align="center">
