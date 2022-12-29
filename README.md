@@ -45,7 +45,7 @@ This project is presented a binary classification of sentiment on a dataset that
 ### Architecture
 
 <p align="center">
-  <img alt="img-name" src="Images/Model Architecture.png" width="400">
+  <img alt="img-name" src="Images/Model Architecture.png" width="500">
   <br>
     <em>Fig: Model Architecture</em>
 </p>
