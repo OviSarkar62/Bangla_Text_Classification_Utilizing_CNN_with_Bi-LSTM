@@ -35,3 +35,5 @@ This project is presented a binary classification of sentiment on a dataset that
 - Converted the sentiment values into one hot encodings for the convenient use in model training.
 - Done tokenization so that it can be later used to generate Embeddings.
 - Padded the sequences.
+
+### Architecture
