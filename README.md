@@ -1,4 +1,4 @@
-# Bangla_Text_Classification_Utilizing_CNN_with_Bi-LSTM
+# Bangla Text Classification Utilizing CNN with Bi-LSTM
 
 This project is presented a binary classification of sentiment on a dataset that contains annotated Bangla texts. A deep learning-based hybrid network with CNN with Bidirectional LSTM is used. This classification model presents the text as either positive or negative. In this model, a dataset on Bangla news comments, consisting of Bangla posts for developing a deep learning model is used.
 
